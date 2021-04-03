@@ -11,7 +11,7 @@ import useDocumentTitle from 'hooks/useDocumentTitle';
 import useScrollTop from 'hooks/useScrollTop';
 
 const Home = () => {
-	useDocumentTitle('Salinaka | Home');
+	useDocumentTitle('Opaku | Home');
 	useScrollTop();
 
 	const {
@@ -31,8 +31,8 @@ const Home = () => {
 		<div className="home">
 			<div className="banner">
 				<div className="banner-desc">
-					<h1 className="text-thin"><strong>See</strong> everything with <strong>Clarity</strong></h1>
-					<p>Buying eyewear should leave you happy and good-looking, with money in your pocket. Glasses, sunglasses, and contacts—we’ve got your eyes covered.</p>
+					<h1 className="text-thin"><strong>Stylish</strong> and comfortable <strong>Infant clothing</strong></h1>
+					<p>In Opaku-wear, you can enjoy all of these benefits together with buying stylish outfits for your kid.</p>
 					<br />
 					<Link to={SHOP} className="button">
 						Shop Now

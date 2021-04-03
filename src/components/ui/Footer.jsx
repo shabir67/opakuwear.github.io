@@ -17,7 +17,7 @@ const Footer = () => {
 	return hiddenFooterPaths.includes(pathname) ? null : (
 		<footer className="footer">
 			<div className="footer-col-1">
-				<strong><span>Developed by <a href="https://github.com/jgudo">JULIUS GUEVARRA</a></span></strong>
+				<strong><span>Modifed by <a href="https://github.com/jgudo">Shobir AS</a></span></strong>
 			</div>
 			<div className="footer-col-2">
 				<img className="footer-logo" src={logo} />

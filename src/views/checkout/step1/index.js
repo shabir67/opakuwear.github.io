@@ -15,7 +15,7 @@ const OrderSummary = ({
 	dispatch,
 	history
 }) => {
-	useDocumentTitle('Check Out Step 1 | Salinaka');
+	useDocumentTitle('Check Out Step 1 | Opaku');
 	useScrollTop();
 
 	const onClickPrevious = () => history.push('/');

@@ -19,7 +19,7 @@ const ShippingDetails = ({
 	subtotal,
 	history
 }) => {
-	useDocumentTitle('Check Out Step 2 | Salinaka');
+	useDocumentTitle('Check Out Step 2 | Opaku');
 	useScrollTop();
 
 	const [field, setField] = useState({

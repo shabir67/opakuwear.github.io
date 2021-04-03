@@ -27,7 +27,7 @@ const SignUp = (props) => {
 	const passwordField = useRef(null);
 
 	useScrollTop();
-	useDocumentTitle('Sign Up | Salinaka');
+	useDocumentTitle('Sign Up | Opaku');
 	useEffect(() => {
 		if (didMount) {
 			setSignUpStatus(authStatus);

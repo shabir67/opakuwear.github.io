@@ -63,11 +63,12 @@
   "dependencies": {
     "firebase": "^7.20.0",
     "formik": "^2.1.5",
+    "ga": "0.0.2",
     "history": "^4.9.0",
     "moment": "^2.27.0",
     "normalize.css": "^8.0.1",
     "prop-types": "^15.7.2",
-    "react": "^16.13.1",
+    "react": "^16.14.0",
     "react-compound-slider": "^2.5.0",
     "react-dom": "^16.13.1",
     "react-ga": "^3.3.0",

@@ -33,7 +33,7 @@ const SignIn = (props) => {
 	const didMount = useDidMount();
 
 	useScrollTop();
-	useDocumentTitle('Sign In | Salinaka');
+	useDocumentTitle('Sign In | Opaku');
 	useEffect(() => {
 		if (didMount) {
 			setSignInStatus(authStatus);
