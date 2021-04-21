@@ -10,7 +10,7 @@ import ReactGA from "react-ga";
 const App = ({ store, persistor }) => {
 	useEffect(()=>{
 		//put yout React Ga code here!
-		ReactGA.initialize('UA-1xxxxx-x')
+		//ReactGA.initialize('UA-1xxxxx-x')
 		//ReactGA.initialize(AppConfig.GOOGLE.GA_TRACKING_CODE);
 		////ReactGA.pageview(window.location.pathname + window.location.search);
 	}, []);
